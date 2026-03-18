@@ -1,6 +1,7 @@
+#manual solution
 class Solution:
     def getAlternates(self, arr):
-        # Code Here
+        
         m=[]
         for i in range(len(arr)):
             if i%2==0:
