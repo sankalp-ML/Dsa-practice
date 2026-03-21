@@ -9,7 +9,7 @@ class Solution:
                     swapped=True
             if swapped==False:
                 break
-        return arr   
+        return arr  
             
 x=Solution()
 print(x.bubble_sort([2,1,4,3,4,5,6,7]))
